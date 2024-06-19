@@ -179,22 +179,22 @@ The Power BI dashboard includes the following KPIs and visualizations:
 
 ### Visualizations
 1. **Line Chart for Daily Trends**:
-   - Add a Line chart.
+   - Added a Line chart.
    - Set the x-axis to the date.
-   - Add AOV, Quantity, and Total Price as values.
+   - Added AOV, Quantity, and Total Price as values.
 
 2. **Line and Stacked Column Chart**:
-   - Add a Line and Stacked Column chart.
+   - Added a Line and Stacked Column chart.
    - Set the x-axis to categories.
-   - Add quantity for columns and quantity received for the line.
+   - Added quantity for columns and quantity received for the line.
 
 3. **Pie Chart for Payment Methods**:
-   - Add a Pie chart.
+   - Added a Pie chart.
    - Set the legend to payment method.
    - Set values to the count of sales.
 
 4. **Table with Various Columns**:
-   - Add a Table.
+   - Added a Table.
    - Include columns like product name, sum of quantities, total sales per product, AOV, average rating, and average discount percentage.
 
 ## Installation and Usage
@@ -210,12 +210,6 @@ The Power BI dashboard includes the following KPIs and visualizations:
 - Ensure you have MySQL installed and running.
 - Create a database named `Ecommerce`.
 - Insert the generated data into the database.
-
-### Power BI Dashboard:
-- Open Power BI Desktop.
-- Import data from the MySQL database.
-- Create relationships between tables as needed.
-- Implement the visualizations and KPIs as described.
 
 ### Conclusion
 This project demonstrates the creation of a comprehensive data management and visualization system for an e-commerce brand, utilizing simulated data, a MySQL database, and Power BI for interactive dashboards. The steps provided should guide you through replicating and expanding upon this system.
